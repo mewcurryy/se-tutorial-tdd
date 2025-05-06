@@ -1,6 +1,6 @@
 # TDD Worksheet – Calculator Case (Python)
 
-This worksheet will guide you through the process of applying **Test-Driven Development (TDD)** to build a simple calculator in Python. You will follow the classic **Red-Green-Refactor** cycle for each arithmetic operation.
+This worksheet will guide you through the process of applying **Test-Driven Development (TDD)** to build a simple calculator in Python. You will follow the classic **Red-Green-Refactor** cycle for each arithmetic operation. This repository was forked from [this repository.](https://github.com/alfhisa/se-tutorial-tdd)
 
 ---
 
